@@ -1,4 +1,7 @@
-# Welcome to our CSC 461 Project! 
-We will be exploring the topic of IMAX movies.
-[project proposal](/project_proposal.md)
+## Welcome to our CSC 461 Project! 
+We will be exploring IMAX and what makes it unique.
+
+## Milestones
+#[project proposal](/project_proposal.md)
+
 
