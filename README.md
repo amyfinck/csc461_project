@@ -2,6 +2,6 @@
 We will be exploring IMAX and what makes it unique.
 
 ## Milestones
-#[project proposal](/project_proposal.md)
+[project proposal](/project_proposal.md)
 
 
