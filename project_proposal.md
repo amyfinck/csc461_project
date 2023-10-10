@@ -21,4 +21,4 @@ This project is important in uncovering valuable insights into the advanced mult
 
 ## References
 
-[1] IMAX Corporation, "IMAX Difference," IMAX Corporation (https://www.imax.com/content/imax-difference). Accessed on: [Accessed Date].
+[1] IMAX Corporation, "IMAX Difference," IMAX Corporation (https://www.imax.com/content/imax-difference). Accessed on: October 9th, 2023
