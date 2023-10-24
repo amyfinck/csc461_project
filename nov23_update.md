@@ -73,7 +73,7 @@ Link:https://arstechnica.com/gadgets/2015/10/imax-with-laser-superb-contrast-4k-
 
 ### [5] Shooting koalas in 12K for IMAX is as tricky as it sounds
 https://www.popsci.com/story/technology/imax-12k-koala-movie-blackmagic-camera/
-- The 70mm film is no longer used, but now the company has switched to digital
+- The company is focued on digital formats for its future.
 - IMAX Digital 2K and IMAX with Laser 4K in 2008 and 2014 respectively
 - In September 2020, IMAX started the "Filmed In IMAX" program. This certifies high-quality digital cameras that can be used to create IMAX-format films
 - IMAX wants to move to filming with 12K cameras. The upcoming film “Koala” will be the first shot in 12K, using the Blackmagic URSA Mini Pro 12K.
