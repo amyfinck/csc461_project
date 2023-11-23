@@ -9,7 +9,7 @@ Amy Finck V00878512
 This bi-weekly update adds the suggestions and resources provided by our peers in response to our midterm update to build on the research we have done into the specifications of different IMAX screens and technologies, the history of the IMAX experience, and the different directions that IMAX is moving in. Our project aims to conduct a comprehensive analysis of the advanced multimedia technologies utilized by IMAX to identify what makes it so unique, as well as potential areas for enhancement in the future.
 
 ## Schedule Progress 
-- ~~Completion of project proposal (October 9) ~~
+- ~~Completion of project proposal (October 9)~~
 - ~~Complete survey analysis and data gathering (Week of October 23)~~
 - ~~Update project website with survey results (Week of October 23)~~
 - ~~Write and Complete Midterm Update (Week of November 2)~~
@@ -26,20 +26,6 @@ This bi-weekly update adds the suggestions and resources provided by our peers i
 
 *Response:* There are many benefits to shooting films at higher resolution than what the theatres are capable of displaying. It provides more flexibility in the post-processing to be able to crop, zoom, and make other edits without sacrificing any of the quality of the image. Many movies also now incorporate forms of CGI and visual effects which have more seamless integration when the initial quality is at higher resolution. Additionally, the higher the resolution, the more pixel data there is which helps with 3D tracking and stabilizing a shot in post-production. Here is a resource we found that discusses why filming in 4K is beneficial even if the final resolution will be lower, which is a bit different but the same principles apply with 12K vs 4K: 
 https://www.premiumbeat.com/blog/shooting-in-1080-vs-4k/#:~:text=More%20Resolution%2C%20More%20Creativity&text=This%20will%20allow%20you%20to,at%20the%20higher%204K%20resolution.
-
-
-## Technical Challenges 
-
-We have found plenty of information on physical specs (such as screen size, aspect ratio, resolution) but it is hard to find the actual compression methods that are used to deliver such large amount of data needed for IMAX films. 
-For future direction, there is lots of press statements on new streaming direction that IMAX is taking but little information on the actual compression methods used to deliver this high quality streaming. 
-
-*Solution:*
-We have started more directed research into the compression instead of general research on the evolution and history of IMAX We are aiming to do more research to ensure that we have checked all possible sources, but some of this information may be proprietary. 
-
-## Questions / Addition Help Needed / Change Requests 
-As mentioned in the technical challenges, we are having trouble finding reliable information on the compression algorithms IMAX digital uses for both audio and video compression. We will continue to research, but any ideas on where to find this information would be appreciated. 
-
-We also received feedback from our TA that we should look at the source The eye of Daedalus: A history and theory of IMAX cinema. However, we didn't find it in the UVic library and could not find it online. Any advice on how to access this resource would be appreciated. 
 
 # Current State of Research 
 After our first biweekly update, we felt we had gathered enough sources to understand the technical details of IMAX. We received feedback that we should now start to clarify the information that we got, and to organise our sources. Below, we have sorted our resources into the categories on which we would like to focus on, and synthesised the information in paragraph format. We determined we would like to write about the technical history of IMAX, the IMAX visual specifications, audio specifications, compression algorithms, and the future of IMAX. We also found that the large range of specifications for different IMAX theatres had the potential to make our topic too broad. To give the reader a greater understanding of modern IMAX technology, we decided to survey the three true IMAX theatres in BC to compare the technology that they employ. Writing this initial draft allowed us to determine which information we would like to focus on, and prompted us to do some additional research in areas where we had less information. We hope to continue to expand and clarify this information in the next two weeks. 
