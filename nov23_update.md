@@ -1,5 +1,5 @@
 [Back to main page](/README.md)
-# November 23 Bi-Weekly Update - Data Gathering and Preliminary Research
+# October 23 Bi-Weekly Update - Data Gathering and Preliminary Research
 
 ## Introduction
 This bi-weekly update is to provide an overview of the preliminary research and data gathering we have done into the specifications of different IMAX screens and technologies, the history of the IMAX experience, and the different directions that IMAX is moving in. Our project aims to conduct a comprehensive analysis of the advanced multimedia technologies utilized by IMAX to identify what makes it so unique, as well as potential areas for enhancement in the future.

@@ -1,20 +1,32 @@
 [Back to main page](/README.md)
-# CSC 461 Midterm Update
+# November 20 Bi-Weekly Update - Updates Based on Peer Feedback of Midterm Update
 
 Michelle Watson V00917147
 Amy Finck V00878512
 
-Project: Multimedia Analysis of IMAX Technology
+### Project: Multimedia Analysis of IMAX Technology
 
-This midterm update is to provide an overview of the research and data gathering we have done, as well as challenges we have faced and an update on our progress with respect to the original schedule. We have researched into the specifications of different IMAX screens and technologies, the history of the IMAX experience, and the different directions that IMAX is moving in. In this update, we have organised the information that we have gathered into categories, and summarised our current knowledge in paragraph format. Our project aims to conduct a comprehensive analysis of the advanced multimedia technologies utilised by IMAX to identify what makes it so unique, as well as potential areas for enhancement in the future.
+This bi-weekly update adds the suggestions and resources provided by our peers in response to our midterm update to build on the research we have done into the specifications of different IMAX screens and technologies, the history of the IMAX experience, and the different directions that IMAX is moving in. Our project aims to conduct a comprehensive analysis of the advanced multimedia technologies utilized by IMAX to identify what makes it so unique, as well as potential areas for enhancement in the future.
 
 ## Schedule Progress 
-Completion of project proposal (October 9) 
-Complete survey analysis and data gathering (Week of October 23)
-Update project website with survey results (Week of October 23)
-Write and Complete Midterm Update (Week of November 2)
-Create and Practice Presentation (Week of November 27)
-Report writing and start demo (Week of December 4)
+- ~~Completion of project proposal (October 9) ~~
+- ~~Complete survey analysis and data gathering (Week of October 23)~~
+- ~~Update project website with survey results (Week of October 23)~~
+- ~~Write and Complete Midterm Update (Week of November 2)~~
+- ~~Incorporate Peer Feedback into Midterm Update (Week of November 20)~~
+- Create and Practice Presentation (Week of November 27)
+- Report writing and start demo (Week of December 4)
+
+## Responses to Peer Questions 
+*Q:* Given the proprietary nature of the IMAX compression algorithm, how will you address this challenge in your research? Are there any potential ways to get this information, or do you plan to focus on the public aspects of IMAX technology?
+
+*Response:* Due to the limited time and resources for this project, we are planning to focus on the aspects of IMAX technology that are publicly available so we will not be attempting to include any proprietary information. Our plan to address the challenges surrounding understanding the compression methods used is to spend more time doing deeper research into the IMAX compression to obtain all non proprietary information that there is available. 
+
+*Q:* Given that IMAX's digital theatres are capable of 4K at most, what do you think the purpose of shooting their new films in 12K might be?
+
+*Response:* There are many benefits to shooting films at higher resolution than what the theatres are capable of displaying. It provides more flexibility in the post-processing to be able to crop, zoom, and make other edits without sacrificing any of the quality of the image. Many movies also now incorporate forms of CGI and visual effects which have more seamless integration when the initial quality is at higher resolution. Additionally, the higher the resolution, the more pixel data there is which helps with 3D tracking and stabilizing a shot in post-production. Here is a resource we found that discusses why filming in 4K is beneficial even if the final resolution will be lower, which is a bit different but the same principles apply with 12K vs 4K: 
+https://www.premiumbeat.com/blog/shooting-in-1080-vs-4k/#:~:text=More%20Resolution%2C%20More%20Creativity&text=This%20will%20allow%20you%20to,at%20the%20higher%204K%20resolution.
+
 
 ## Technical Challenges 
 
@@ -62,6 +74,34 @@ IMAX has been continually evolving its technology, and is likely to continue to 
 
 While IMAX is looking to continue to expand the quality in some of their theatres, they also have been looking to gain prominence outside of expensive IMAX theatres [8] This vision for the future, represented by "IMAX 3.0," aims to deliver high-quality entertainment experiences on screens of various sizes, expanding beyond traditional theatres. They have introduced 'Stream Smart,' [9] developed in collaboration with Disney, with the goal of delivering high-quality video at reduced distribution costs [7]. IMAX has also opened up a large number of theatres which show 2K video at a more traditional screen size. These are often opened in movie theatres themselves, and has been been termed ‘lie-max’ [10] by sone due to not meeting the IMAX expectations of a large screen and stunning visual and audio quality. 
 
+## New Research from Resources Provided in Peer Feedback
+[11] Oppenheimer Just Made Movie History: How the Christopher Nolan Film Changed IMAX
+- Link: https://www.denofgeek.com/movies/oppenheimer-imax-christopher-nolan/
+- Christopher Nolan's "Oppenheimer" challenges IMAX technology by shifting from action-packed scenes to intimate political and scientific moments.
+- Since the film shifts often between action-packed scenes and more political, extended dialogue moments, IMAX cameras face a unique application challenge so the cinematography team experimented by shooting on 65mm initially and transitioning to IMAX for select sequences when needed 
+- This movie was historic in cinema due to their creation of 70mm black and white IMAX film stocks, which is accompanied by technical adjustments in camera mechanics and film processing.
+- The film's cinematic laboratory approach includes the creation of a snorkel lens for IMAX cameras, which was developed by Panavision; it provides a unique perspective for capturing scenes in confined spaces.
+- "Oppenheimer" explores the quantum world using in-camera IMAX photography, opting for practical effects like micro photography. This approach, alongside the use of a snorkel lens, enhances the tangible and authentic representation of the molecular realm.
+- The snorkel lens is employed in water tanks which offers a practical approach to capturing scenes or visuals representing aspects of quantum physics.
+- The film balances practical effects with real-world filming, particularly for sequences depicting the atomic explosion at the test site Trinity. This emphasizes the importance of authentic visuals in specific cinematic scenarios.
+
+[12] IMAX 101 Series: DMR (Digital Re-Mastering)—The Secret Sauce Behind The IMAX Experience
+- Link:https://web.archive.org/web/20150109181705/http://www.imax.com/community/blog/imax-101-series-a-deeper-dive-into-dmr/
+- DMR (Digital Media Remastering) is a transformative process behind IMAX technology. Image Re-mastering involves scanning and converting 35mm film frames into high-resolution digital images.
+- IMAX collaborates with filmmakers, using proprietary tools for image enhancement.
+- Techniques include detail enhancement, artifact removal, increased brightness, and contrast.
+- The process is collaborative, involving filmmakers' input to achieve both technical and creative goals.
+- The enhanced digital signal is recorded onto 15/70 film or an IMAX DCP for projection.
+- Sound Re-mastering involves remixing original tracks to optimize for IMAX theatres' sound systems.
+- IMAX's control over theatre design allows for a unique and optimized soundtrack.
+
+[13] The Eye of Daedalus 
+- Has a chapter that explores the technical and aesthetic qualities of IMAX 3D films within the larger context of IMAX development and explains how IMAX 3D positions the spectator differently than 2D scenarios to influence viewer experience
+- Debunks 5 myths about IMAX 3D: Myth #1: All IMAX is 3D; Myth #2: In IMAX 3D, the screen disappears; Myth #3: The IMAX viewer is absorbed into the image; Myth #4: IMAX 3D simulates human perception; Myth #5: An IMAX movie is the closest thing to being there
+- Conventional 3D films emphasize the emergence of objects from the screen, whereas IMAX 3D focuses on representing volumes, creating a truly three-dimensional visual matrix.
+- The geometrical arrangement of IMAX 3D is quite complex, the window appears large enough to crawl through, the film frame corresponds to the body's frame, allowing objects to move around and even past the viewer, and objects can even approach from behind
+- Speakers also play a large role in the effect of IMAX 3D by being placed in all directions so that the sensations of objects moving past or approaching from behind can be created 
+
 ## References 
 [1] The birthplace of IMAX - https://donofriofilm.wordpress.com/2014/12/04/the-birthplace-of-imax-an-expo-67-retrospect/
 
@@ -84,5 +124,9 @@ While IMAX is looking to continue to expand the quality in some of their theatre
 
 [10]	 “The shrinking IMAX screen,” LF Examiner, https://lfexaminer.com/2010/04/the-shrinking-imax-screen/ (accessed Oct. 23, 2023).
 
+[11] 	D. Crow, “Oppenheimer just made movie history: How the christopher nolan film changed imax,” Den of Geek, https://www.denofgeek.com/movies/oppenheimer-imax-christopher-nolan/ (accessed Nov. 23, 2023).
 
+[12] 	“IMAX 101 series: A deeper dive into DMR,” IMAX.com, https://web.archive.org/web/20150109181705/http://www.imax.com/community/blog/imax-101-series-a-deeper-dive-into-dmr/ (accessed Nov. 23, 2023).
+
+[13]	A. P. Whitney, The Eye of Daedalus: A History and Theory of IMAX Cinema. Ann Arbor, MI: University Microfilms International, 2005.
 
