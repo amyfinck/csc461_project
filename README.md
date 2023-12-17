@@ -6,4 +6,5 @@ We will be exploring IMAX and what makes it unique.
 ## [Oct 23 Bi-Weekly Update](/nov23_update.md)
 ## [Midterm Update](/midterm_update.md)
 ## [Nov 20 Bi-Weekly Update](/nov20_update.md)
+## [Demo Video(/demo_video.md)
 ## [Final Report](/final_report.md)
